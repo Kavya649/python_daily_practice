@@ -1,1 +1,1 @@
-# python_daily_practice
+This Repository contains my daily coding practice.
